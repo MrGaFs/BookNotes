@@ -14,7 +14,7 @@
 
 this is a way to save and restore the state of an object
 
-![Memnto UML](momento.png "Momento UML")
+![Memnto UML](Momento.png "Momento UML")
 
 ```js
 class Momento {
