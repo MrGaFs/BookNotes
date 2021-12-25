@@ -14,7 +14,7 @@ This used if You don't Know excatly how you gonna work with and make your code m
 
 ### Factory Design Pattern UML
 
-![Factory png]("UMLs/CreationalPatterns/Factory.png")
+![Factory png](UMLs/CreationalPatterns/Factory.png)
 
 ### Notes on Factory DP
 
@@ -153,7 +153,7 @@ If I had some stuff that is siamilar in some stuff like if we had a chair and so
 
 ### abstract factory UML
 
-![abstractFactory.png]('UMLs/CreationalPatterns/abstractFactory.png')
+![abstractFactory.png](UMLs/CreationalPatterns/abstractFactory.png)
 
 ### Notes on Abstract Factory Design Pattern
 
@@ -337,7 +337,7 @@ and they may really differ from car to another so you can make builder class tha
 
 ### Builder Design Pattern UML
 
-![Builder Design Pattern]("UMLs/CreationalPatterns/builder.png")
+![Builder Design Pattern](UMLs/CreationalPatterns/builder.png)
 
 ### When to use this design pattern?
 
@@ -529,7 +529,7 @@ Prototype is a creational design pattern that lets you copy existing objects wit
 
 ### Protype design pattern UML
 
-![Prototype design pattern]("UMLs/CreationalPatterns/prototype.png")
+![Prototype design pattern](UMLs/CreationalPatterns/prototype.png)
 
 ### How to implempent prototype design pattern?
 
@@ -633,7 +633,7 @@ If I want to make a class that works with a database, I can use singleton patter
 
 ### singleton design pattern UML
 
-![singleton design pattern]("UMLs/CreationalPatterns/singleton.png")
+![singleton design pattern](UMLs/CreationalPatterns/singleton.png)
 
 ### How to implement singleton design pattern?
 
