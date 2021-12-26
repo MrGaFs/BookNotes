@@ -11,7 +11,7 @@ This patterns are used to group elements in a data structure.
     - [When to use it](#when-to-use-it)
     - [adapter design pattern UML](#adapter-design-pattern-uml)
       - [object adapter](#object-adapter)
-    - [Class Adapter (only supported in language that suppoerts multiple inheritance like c++)](#class-adapter-only-supported-in-language-that-suppoerts-multiple-inheritance-like-c)
+      - [Class Adapter (only supported in language that suppoerts multiple inheritance like c++)](#class-adapter-only-supported-in-language-that-suppoerts-multiple-inheritance-like-c)
     - [How to implement Adapter design pattern?](#how-to-implement-adapter-design-pattern)
     - [code sample for adapter design pattern](#code-sample-for-adapter-design-pattern)
   - [Bridge Design Pattern](#bridge-design-pattern)
@@ -61,7 +61,7 @@ Adapter design pattern is a design pattern that allows classes to work together 
 
 ![adapter design pattern](UMLs/structualPatterns/object-adapter.png)
 
-### Class Adapter (only supported in language that suppoerts multiple inheritance like c++)
+#### Class Adapter (only supported in language that suppoerts multiple inheritance like c++)
 
 ![adapter design pattern](UMLs/structualPatterns/class-adapter.png)
 
