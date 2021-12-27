@@ -163,7 +163,7 @@ clientCode(adapter);
 
 ### Bridge design pattern UML
 
-![bridge design pattern](Umls/structualPatterns/bridge.png)
+![bridge design pattern](UMLs/structualPatterns/bridge.png)
 
 ### how to implement Bridge design pattern?
 
@@ -276,7 +276,7 @@ it's self explaintory to me It's a structural design pattern that lets you compo
 
 ### composite design pattern UML
 
-![composite design pattern](Umls/structualPatterns/composite.png)
+![composite design pattern](UMLs/structualPatterns/composite.png)
 
 ### code sample for composite design pattern
 
@@ -453,7 +453,7 @@ Decorator is a structural design pattern that lets you attach new behaviors to o
 
 ### decorator design pattern UML
 
-![decorator design pattern](Umls/structualPatterns/Decorator.png)
+![decorator design pattern](UMLs/structualPatterns/Decorator.png)
 
 ### code sample of Decorator pattern
 
@@ -567,7 +567,7 @@ so we make facade class which will be the only class that will be used by the us
 
 ### facade design pattern uml
 
-![facade](Umls/structualPatterns/facade.png)
+![facade](UMLs/structualPatterns/facade.png)
 
 ### code sample of facade design pattern
 
@@ -678,7 +678,7 @@ it's saimilar to prototype in js and ts
 
 ### flyweight design pattern uml
 
-![flyweight](Umls/structualPatterns/flyweight.png)
+![flyweight](UMLs/structualPatterns/flyweight.png)
 
 ### code sample of flyweight design pattern
 

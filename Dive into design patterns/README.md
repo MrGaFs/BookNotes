@@ -12,4 +12,4 @@
 
 - [Structual Patterns](StructualPatterns.md)
   
-- (under construction) [Behavioral Patterns](BehavioralPatterns.md)
+- [Behavioral Patterns](BehavioralPatterns.md)
