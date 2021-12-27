@@ -59,11 +59,11 @@ Adapter design pattern is a design pattern that allows classes to work together 
 
 #### object adapter
 
-![adapter design pattern](./UMLs/structualPatterns/object-adapter.png)
+![adapter design pattern](./UMLs/StructualPatterns/object-adapter.png)
 
 #### Class Adapter (only supported in language that suppoerts multiple inheritance like c++)
 
-![adapter design pattern](./UMLs/structualPatterns/class-adapter.png)
+![adapter design pattern](./UMLs/StructualPatterns/class-adapter.png)
 
 ### How to implement Adapter design pattern?
 
@@ -163,7 +163,7 @@ clientCode(adapter);
 
 ### Bridge design pattern UML
 
-![bridge design pattern](./UMLs/structualPatterns/bridge.png)
+![bridge design pattern](./UMLs/StructualPatterns/bridge.png)
 
 ### how to implement Bridge design pattern?
 
@@ -276,7 +276,7 @@ it's self explaintory to me It's a structural design pattern that lets you compo
 
 ### composite design pattern UML
 
-![composite design pattern](./UMLs/structualPatterns/composite.png)
+![composite design pattern](./UMLs/StructualPatterns/composite.png)
 
 ### code sample for composite design pattern
 
@@ -453,7 +453,7 @@ Decorator is a structural design pattern that lets you attach new behaviors to o
 
 ### decorator design pattern UML
 
-![decorator design pattern](./UMLs/structualPatterns/Decorator.png)
+![decorator design pattern](./UMLs/StructualPatterns/Decorator.png)
 
 ### code sample of Decorator pattern
 
@@ -567,7 +567,7 @@ so we make facade class which will be the only class that will be used by the us
 
 ### facade design pattern uml
 
-![facade](./UMLs/structualPatterns/facade.png)
+![facade](./UMLs/StructualPatterns/facade.png)
 
 ### code sample of facade design pattern
 
@@ -678,7 +678,7 @@ it's saimilar to prototype in js and ts
 
 ### flyweight design pattern uml
 
-![flyweight](./UMLs/structualPatterns/flyweight.png)
+![flyweight](./UMLs/StructualPatterns/flyweight.png)
 
 ### code sample of flyweight design pattern
 
